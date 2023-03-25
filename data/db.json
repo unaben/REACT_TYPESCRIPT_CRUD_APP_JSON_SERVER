@@ -1,0 +1,39 @@
+{
+  "people": [
+    {
+      "id": "28e1be8d-cdf8-4815-9004-3989fd1c9bf4",
+      "fName": "Rico",
+      "lName": "Smile",
+      "age": "42",
+      "job": "Project owner"
+    },
+    {
+      "id": "03bee3d7-c129-4a93-aa71-d30ee8d3135f",
+      "fName": "Emmanuel ",
+      "lName": "Kangaroo",
+      "age": "57",
+      "job": "Dog walker"
+    },
+    {
+      "id": "978bc4b0-3048-4424-bc31-7fb2b78de456",
+      "fName": "Steven",
+      "lName": "Lee",
+      "age": "45",
+      "job": "Carpenter"
+    },
+    {
+      "id": "864ac5d8-8e58-41c0-872b-3798c8221d3c",
+      "fName": "Rico",
+      "lName": "King",
+      "age": "32",
+      "job": "Project manager"
+    },
+    {
+      "id": "5c388019-993d-46b7-8b76-aa91a1c5079f",
+      "fName": "Andrew",
+      "lName": "Kangaroo",
+      "age": "43",
+      "job": "Developer"
+    }
+  ]
+}
