@@ -1,5 +1,5 @@
 import React, { useState, FC } from "react";
-import { IPersonData } from "../models/IPeopleData";
+import { IPersonData } from "../../models/IPeopleData";
 import { v4 as uuidv4 } from "uuid";
 import { addNewContact } from "../../api/addNewContact/addNewContact";
 

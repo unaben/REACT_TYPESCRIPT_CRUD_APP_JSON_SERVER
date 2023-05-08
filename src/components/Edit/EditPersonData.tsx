@@ -1,6 +1,6 @@
 import React, { FC } from "react";
 import { editContact } from "../../api/editContact/editContact";
-import { IPersonData, IPersonState } from "../models/IPeopleData";
+import { IPersonData, IPersonState } from "../../models/IPeopleData";
 
 type IEditContactDataProps = {
   contacts: IPersonData[];

@@ -2,10 +2,9 @@ import { useEffect, useState } from "react";
 
 import CreatePersonData from "./components/Create/CreatePersonData";
 import EditPersonData from "./components/Edit/EditPersonData";
-import { useFetchPeopleData } from "./components/hooks/UseGetData";
-import { IPersonData } from "./components/models/IPeopleData";
+import { useFetchPeopleData } from "./hooks/UseGetData";
+import { IPersonData } from "./models/IPeopleData";
 import RenderData from "./components/RenderData/RenderData";
-
 import "./App.css";
 
 const App = () => {

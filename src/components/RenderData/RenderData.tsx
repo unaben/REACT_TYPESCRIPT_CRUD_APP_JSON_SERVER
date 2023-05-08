@@ -1,6 +1,6 @@
 import React, { FC } from "react";
 import { deleteContact } from "../../api/deleteContact/deleteContact";
-import { IPersonData } from "../models/IPeopleData";
+import { IPersonData } from "../../models/IPeopleData";
 
 type IRenderDataProps = {
   contacts: IPersonData[];

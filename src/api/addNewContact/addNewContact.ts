@@ -1,5 +1,5 @@
 import React from "react";
-import { IPersonData } from "../../components/models/IPeopleData";
+import { IPersonData } from "../../models/IPeopleData";
 
 export const addNewContact = async (
   personToCreate: IPersonData,
